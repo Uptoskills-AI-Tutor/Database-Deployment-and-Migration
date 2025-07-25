@@ -1,7 +1,7 @@
 const express = require("express");
 const router = express.Router();
 
-// Sample in-memory DB (replace with MongoDB logic later)
+// Sample in memory DB 
 const forumQuestions = [];
 
 // POST /forum/question
